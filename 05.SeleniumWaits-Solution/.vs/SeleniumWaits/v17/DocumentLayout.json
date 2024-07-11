@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\repo\\05.SeleniumWaits-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F573A6-6760-415B-8C46-F04E81FC2793}|DynamicDemo\\DynamicDemo.csproj|d:\\suqap2\\front-end test automation - july 2024\\repo\\05.seleniumwaits-solution\\dynamicdemo\\testboxandinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F573A6-6760-415B-8C46-F04E81FC2793}|DynamicDemo\\DynamicDemo.csproj|solutionrelative:dynamicdemo\\testboxandinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBoxAndInput.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\repo\\05.SeleniumWaits-Solution\\DynamicDemo\\TestBoxAndInput.cs",
+              "RelativeDocumentMoniker": "DynamicDemo\\TestBoxAndInput.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\repo\\05.SeleniumWaits-Solution\\DynamicDemo\\TestBoxAndInput.cs",
+              "RelativeToolTip": "DynamicDemo\\TestBoxAndInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:28:00.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
