@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\SoftUni\\qa-profession\\Front-End-Test-Automation\\May-2024\\02-Front-End-Test-Automation\\05.Selenium-WebDriver-Wait\\Solutions\\SeleniumWaits\\",
+  "WorkspaceRootPath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\05.SeleniumWaits\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F573A6-6760-415B-8C46-F04E81FC2793}|DynamicDemo\\DynamicDemo.csproj|d:\\documents\\softuni\\qa-profession\\front-end-test-automation\\may-2024\\02-front-end-test-automation\\05.selenium-webdriver-wait\\solutions\\seleniumwaits\\dynamicdemo\\testboxandinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F573A6-6760-415B-8C46-F04E81FC2793}|DynamicDemo\\DynamicDemo.csproj|d:\\suqap2\\front-end test automation - july 2024\\front-end-test-automation-july-2024\\05.seleniumwaits\\dynamicdemo\\testboxandinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F573A6-6760-415B-8C46-F04E81FC2793}|DynamicDemo\\DynamicDemo.csproj|solutionrelative:dynamicdemo\\testboxandinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,42 +14,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestBoxAndInput.cs",
-              "DocumentMoniker": "D:\\Documents\\SoftUni\\qa-profession\\Front-End-Test-Automation\\May-2024\\02-Front-End-Test-Automation\\05.Selenium-WebDriver-Wait\\Solutions\\SeleniumWaits\\DynamicDemo\\TestBoxAndInput.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\05.SeleniumWaits\\DynamicDemo\\TestBoxAndInput.cs",
               "RelativeDocumentMoniker": "DynamicDemo\\TestBoxAndInput.cs",
-              "ToolTip": "D:\\Documents\\SoftUni\\qa-profession\\Front-End-Test-Automation\\May-2024\\02-Front-End-Test-Automation\\05.Selenium-WebDriver-Wait\\Solutions\\SeleniumWaits\\DynamicDemo\\TestBoxAndInput.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\05.SeleniumWaits\\DynamicDemo\\TestBoxAndInput.cs",
               "RelativeToolTip": "DynamicDemo\\TestBoxAndInput.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T17:28:00.067Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 144,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
