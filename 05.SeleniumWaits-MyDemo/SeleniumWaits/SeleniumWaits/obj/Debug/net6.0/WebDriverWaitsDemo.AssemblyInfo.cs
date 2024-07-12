@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDriverWaitsDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+540d98fde2d512f1766ffa9ed9494547d7e2d4ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8f71cba42ffa8e0bdda6d5aeb4838574412713")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDriverWaitsDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDriverWaitsDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

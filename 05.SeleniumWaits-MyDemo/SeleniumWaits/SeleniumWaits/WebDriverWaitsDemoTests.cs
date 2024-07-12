@@ -122,9 +122,7 @@ namespace WebDriverWaitsDemo
             
         }
 
-
         [Test]
-
         public void FluentWait_ElementCreatedButNotVisible() 
         {
             driver.Navigate().GoToUrl("https://the-internet.herokuapp.com/dynamic_loading/1");
@@ -141,7 +139,23 @@ namespace WebDriverWaitsDemo
 
         }
 
-        //TO DO TESTS..... FLuentException
+        [Test]
+        public void FluentWait_IgnoreException_ElementCreatedButNotVisible()
+        {
+            driver.Navigate().GoToUrl("https://the-internet.herokuapp.com/dynamic_loading/1");
+
+            driver.FindElement(By.XPath("//div[@class='example']//div[@id='start']//button")).Click();
+
+            DefaultWait<IWebDriver> fluentWait = new DefaultWait<IWebDriver>(driver);
+            fluentWait.Timeout = TimeSpan.FromSeconds(10);
+            fluentWait.PollingInterval = TimeSpan.FromMilliseconds(50);
+            fluentWait.IgnoreExceptionTypes(typeof(NoSuchElementException));
+
+            IWebElement finishDiv = fluentWait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//div[@class='example']//div[@id='finish']")));
+
+            Assert.True(finishDiv.Displayed);
+
+        }
 
 
     }
