@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|d:\\softuni\\9 front-end test automation - july 2024 - repo\\calculatepomdemotests\\calculatepomdemotests\\calculatepomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|solutionrelative:calculatepomdemotests\\calculatepomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|d:\\softuni\\9 front-end test automation - july 2024 - repo\\calculatepomdemotests\\calculatepomdemotests\\sumnumberspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|solutionrelative:calculatepomdemotests\\sumnumberspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|d:\\softuni\\9 front-end test automation - july 2024 - repo\\calculatepomdemotests\\calculatepomdemotests\\calculatepom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94E2EE9B-CB3F-41C4-A743-CC7CDB0D559D}|CalculatePOMDemoTests\\CalculatePOM.csproj|solutionrelative:calculatepomdemotests\\calculatepom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatePOM",
+              "DocumentMoniker": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\CalculatePOM.csproj",
+              "RelativeDocumentMoniker": "CalculatePOMDemoTests\\CalculatePOM.csproj",
+              "ToolTip": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\CalculatePOM.csproj",
+              "RelativeToolTip": "CalculatePOMDemoTests\\CalculatePOM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T16:12:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumNumbersPage.cs",
+              "DocumentMoniker": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\SumNumbersPage.cs",
+              "RelativeDocumentMoniker": "CalculatePOMDemoTests\\SumNumbersPage.cs",
+              "ToolTip": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\SumNumbersPage.cs",
+              "RelativeToolTip": "CalculatePOMDemoTests\\SumNumbersPage.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:13:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatePOMTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\CalculatePOMTests.cs",
+              "RelativeDocumentMoniker": "CalculatePOMDemoTests\\CalculatePOMTests.cs",
+              "ToolTip": "D:\\SoftUni\\9 Front-End Test Automation - july 2024 - repo\\CalculatePOMDemoTests\\CalculatePOMDemoTests\\CalculatePOMTests.cs",
+              "RelativeToolTip": "CalculatePOMDemoTests\\CalculatePOMTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:12:28.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
