@@ -64,13 +64,50 @@ namespace WebDriverExplicitWait
 
         }
 
-        // TO DO ....
-
         [Test, Order(2)]
 
-        public void Test2()
+        public void SearchProduct_Junk_ShouldThrowNoSUchElementException()
         {
-            Assert.Pass();
+            //Fill in the search field textbox
+            driver.FindElement(By.Name("keywords")).SendKeys("junk");
+
+            //Click on the search icon 
+            driver.FindElement(By.XPath("//input[@title=' Quick Find ']")).Click();
+
+            // Set the implicit wait 0 before using explicit wait
+            driver.Manage().Timeouts().ImplicitWait=TimeSpan.FromSeconds(0);
+
+                //Enter Explicit wait for an object in {try-catch-finally}
+            try
+            {
+                //Create WebDriverWait object with timeout set to 10 seconds
+                WebDriverWait wait = new WebDriverWait (driver, TimeSpan.FromSeconds(10));
+
+                //Wait to identify the 'Buy Now' link using LinkText property
+                IWebElement buyNowLink = wait.Until(e => e.FindElement(By.LinkText("Buy Now")));
+
+                //If found fail the test as it should not exist
+                buyNowLink.Click();
+                Assert.Fail("The 'Buy Now' link was found for a non-existing product.");
+
+            }
+            catch (WebDriverTimeoutException)
+            {
+                //Expected exception for non-existing product
+                Assert.Pass("Expected WebDriverTimeoutException was thrown");
+            }
+            catch (Exception ex)
+            {
+                Assert.Fail("Unexpected exception:" + ex.Message);
+            }
+            finally
+            {
+                //Reset the implicit wait
+                driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            }
+
+
+
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dh+P7ATttns=",
+  "dgSpecHash": "n6Re6yr2CyU=",
   "success": true,
-  "projectFilePath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverWaitExercise.csproj",
+  "projectFilePath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverImplicitWaitExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

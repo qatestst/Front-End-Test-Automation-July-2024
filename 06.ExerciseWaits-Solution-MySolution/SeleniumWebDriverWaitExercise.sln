@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumWebDriverWaitExercise", "SeleniumWebDriverWaitExercise\SeleniumWebDriverWaitExercise.csproj", "{1AFADFB4-A618-4B3C-9ABF-D3181E71556D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumWebDriverImplicitWaitExercise", "SeleniumWebDriverWaitExercise\SeleniumWebDriverImplicitWaitExercise.csproj", "{1AFADFB4-A618-4B3C-9ABF-D3181E71556D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverExplicitWait", "WebDriverExplicitWait\WebDriverExplicitWait.csproj", "{1513C1E1-BE45-4A3D-973D-F4B71E4CD678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDriverExplicitWait", "WebDriverExplicitWait\WebDriverExplicitWait.csproj", "{1513C1E1-BE45-4A3D-973D-F4B71E4CD678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleWindows", "HandleWindows\HandleWindows.csproj", "{E4552B1B-B795-4CC4-9AFB-0F9878FFC770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleAlerts", "HandleAlerts\HandleAlerts.csproj", "{135932C2-E7D8-4363-B430-D06CD583ED42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFrameTesting", "iFrameTesting\iFrameTesting.csproj", "{81E4F5A0-4C56-4026-AEF1-3C0467EB4072}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{1513C1E1-BE45-4A3D-973D-F4B71E4CD678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1513C1E1-BE45-4A3D-973D-F4B71E4CD678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1513C1E1-BE45-4A3D-973D-F4B71E4CD678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4552B1B-B795-4CC4-9AFB-0F9878FFC770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4552B1B-B795-4CC4-9AFB-0F9878FFC770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4552B1B-B795-4CC4-9AFB-0F9878FFC770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4552B1B-B795-4CC4-9AFB-0F9878FFC770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135932C2-E7D8-4363-B430-D06CD583ED42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135932C2-E7D8-4363-B430-D06CD583ED42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135932C2-E7D8-4363-B430-D06CD583ED42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135932C2-E7D8-4363-B430-D06CD583ED42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E4F5A0-4C56-4026-AEF1-3C0467EB4072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E4F5A0-4C56-4026-AEF1-3C0467EB4072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E4F5A0-4C56-4026-AEF1-3C0467EB4072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E4F5A0-4C56-4026-AEF1-3C0467EB4072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

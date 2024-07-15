@@ -1091,9 +1091,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverWaitExercise.csproj",
-      "projectName": "SeleniumWebDriverWaitExercise",
-      "projectPath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverWaitExercise.csproj",
+      "projectUniqueName": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverImplicitWaitExercise.csproj",
+      "projectName": "SeleniumWebDriverImplicitWaitExercise",
+      "projectPath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\SeleniumWebDriverImplicitWaitExercise.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "D:\\SUQAP2\\Front-End Test Automation - july 2024\\Front-End-Test-Automation-July-2024\\06.ExerciseWaits-Solution-MySolution\\SeleniumWebDriverWaitExercise\\obj\\",
       "projectStyle": "PackageReference",
