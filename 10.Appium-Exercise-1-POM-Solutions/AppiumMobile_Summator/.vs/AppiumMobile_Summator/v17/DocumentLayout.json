@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mddim\\OneDrive\\Desktop\\AppiumMobile_Summator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341007CF-E662-4D12-A2A5-899267B30798}|AppiumMobile_Summator\\AppiumMobile_Summator.csproj|c:\\users\\mddim\\onedrive\\desktop\\appiummobile_summator\\appiummobile_summator\\summatortestspom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341007CF-E662-4D12-A2A5-899267B30798}|AppiumMobile_Summator\\AppiumMobile_Summator.csproj|solutionrelative:appiummobile_summator\\summatortestspom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341007CF-E662-4D12-A2A5-899267B30798}|AppiumMobile_Summator\\AppiumMobile_Summator.csproj|c:\\users\\mddim\\onedrive\\desktop\\appiummobile_summator\\appiummobile_summator\\summatorpom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341007CF-E662-4D12-A2A5-899267B30798}|AppiumMobile_Summator\\AppiumMobile_Summator.csproj|solutionrelative:appiummobile_summator\\summatorpom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SummatorTestsPOM.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\AppiumMobile_Summator\\AppiumMobile_Summator\\SummatorTestsPOM.cs",
+              "RelativeDocumentMoniker": "AppiumMobile_Summator\\SummatorTestsPOM.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\AppiumMobile_Summator\\AppiumMobile_Summator\\SummatorTestsPOM.cs",
+              "RelativeToolTip": "AppiumMobile_Summator\\SummatorTestsPOM.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-06T15:13:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SummatorPOM.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\AppiumMobile_Summator\\AppiumMobile_Summator\\SummatorPOM.cs",
+              "RelativeDocumentMoniker": "AppiumMobile_Summator\\SummatorPOM.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\AppiumMobile_Summator\\AppiumMobile_Summator\\SummatorPOM.cs",
+              "RelativeToolTip": "AppiumMobile_Summator\\SummatorPOM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-03-06T15:13:38.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
