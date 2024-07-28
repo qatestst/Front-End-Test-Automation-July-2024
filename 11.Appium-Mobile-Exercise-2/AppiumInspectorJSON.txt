@@ -1,0 +1,10 @@
+RemoteHost: 127.0.0.1  Port: 4723
+
+{
+  "platformName": "Android",
+  "appium:automationName": "UiAutomator2",
+  "appium:deviceName": "Pixel7API",
+  "appium:app": "D:\\ApiDemos-debug.apk",
+  "appium:platformVersion": "14",
+  "appium:autoGrantPermissions": "true"
+}

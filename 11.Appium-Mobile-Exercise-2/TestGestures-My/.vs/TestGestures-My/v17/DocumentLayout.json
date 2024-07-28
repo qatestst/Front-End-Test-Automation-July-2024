@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\TestGestures-My\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDB331D-14FC-4553-899C-6985D806C1E1}|TestGestures-My\\TestGestures-My.csproj|d:\\softuni\\front-end-test-automation-july-2024\\11.appium-mobile-exercise-2\\testgestures-my\\testgestures-my\\seekbartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDB331D-14FC-4553-899C-6985D806C1E1}|TestGestures-My\\TestGestures-My.csproj|solutionrelative:testgestures-my\\seekbartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDB331D-14FC-4553-899C-6985D806C1E1}|TestGestures-My\\TestGestures-My.csproj|d:\\softuni\\front-end-test-automation-july-2024\\11.appium-mobile-exercise-2\\testgestures-my\\testgestures-my\\scrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDB331D-14FC-4553-899C-6985D806C1E1}|TestGestures-My\\TestGestures-My.csproj|solutionrelative:testgestures-my\\scrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrollTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\TestGestures-My\\TestGestures-My\\ScrollTests.cs",
+              "RelativeDocumentMoniker": "TestGestures-My\\ScrollTests.cs",
+              "ToolTip": "D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\TestGestures-My\\TestGestures-My\\ScrollTests.cs",
+              "RelativeToolTip": "TestGestures-My\\ScrollTests.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwEcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:58:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeekBarTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\TestGestures-My\\TestGestures-My\\SeekBarTests.cs",
+              "RelativeDocumentMoniker": "TestGestures-My\\SeekBarTests.cs",
+              "ToolTip": "D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\TestGestures-My\\TestGestures-My\\SeekBarTests.cs",
+              "RelativeToolTip": "TestGestures-My\\SeekBarTests.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:57:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
