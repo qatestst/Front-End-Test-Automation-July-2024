@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestGestures-My")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c772695276ffe9287dca99c9e1808bafc478f50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d987d27ede224fe3ca606a77f20807e35461171")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestGestures-My")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestGestures-My")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

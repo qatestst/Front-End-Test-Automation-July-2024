@@ -7,7 +7,7 @@ using System.Drawing;
 
 namespace TestGestures_My
 {
-    public class SeekBarests
+    public class SeekBarTests
     {
         private AndroidDriver _driver;
         private AppiumLocalService _appiumLocalService;
@@ -29,8 +29,8 @@ namespace TestGestures_My
                 AutomationName = "UiAutomator2",
                 DeviceName = "Pixel7API",
                 PlatformVersion = "14",
-                App = @"D:\\SoftUni\\Front-End-Test-Automation-July-2024\\11.Appium-Mobile-Exercise-2\\ApiDemos-debug.apk"
-                               
+                App = @"D:\ApiDemos-debug.apk"
+
             };
 
             _driver = new AndroidDriver(_appiumLocalService, androidOptions);
