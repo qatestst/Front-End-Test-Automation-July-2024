@@ -1,0 +1,3 @@
+user: randomUser999
+mail: randomUser999@randomMail.com
+pass: 123456
