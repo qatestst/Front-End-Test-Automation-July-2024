@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\tests\\moviecataloguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\tests\\moviecataloguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\pages\\addmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\pages\\addmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|d:\\suqap2\\front-end-test-automation-july-2024-repo\\19.exam-prep-iii\\mysolution\\moviecataloguetests\\moviecataloguetests\\pages\\allmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A7879-A828-4BE4-A04B-46DA39414D78}|MovieCatalogueTests\\MovieCatalogueTests.csproj|solutionrelative:moviecataloguetests\\pages\\allmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Tests\\BaseTests.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Tests\\BaseTests.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Tests\\BaseTests.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Tests\\BaseTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:29:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:25:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatchedMoviesPage.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\WatchedMoviesPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Pages\\WatchedMoviesPage.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\WatchedMoviesPage.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Pages\\WatchedMoviesPage.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIA1wCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:24:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\BasePage.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:58:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMoviePage.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\AddMoviePage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Pages\\AddMoviePage.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\AddMoviePage.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Pages\\AddMoviePage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllMoviesPage.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\AllMoviesPage.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Pages\\AllMoviesPage.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Pages\\AllMoviesPage.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Pages\\AllMoviesPage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:36:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieCatalogueTests.cs",
+              "DocumentMoniker": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Tests\\MovieCatalogueTests.cs",
+              "RelativeDocumentMoniker": "MovieCatalogueTests\\Tests\\MovieCatalogueTests.cs",
+              "ToolTip": "D:\\SUQAP2\\Front-End-Test-Automation-July-2024-repo\\19.Exam-Prep-III\\MySolution\\MovieCatalogueTests\\MovieCatalogueTests\\Tests\\MovieCatalogueTests.cs",
+              "RelativeToolTip": "MovieCatalogueTests\\Tests\\MovieCatalogueTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:23:02.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
