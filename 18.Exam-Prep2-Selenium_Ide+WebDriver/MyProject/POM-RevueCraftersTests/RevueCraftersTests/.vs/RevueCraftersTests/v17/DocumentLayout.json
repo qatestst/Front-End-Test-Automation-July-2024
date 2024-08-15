@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\RevueCraftersTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\tests\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\tests\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\pages\\myrevuespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\pages\\createrevuepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\pages\\createrevuepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|d:\\1\\revuecrafterstests\\revuecrafterstests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535C6D26-20B4-47A7-8312-D607E986FE97}|RevueCraftersTests\\RevueCraftersTests.csproj|solutionrelative:revuecrafterstests\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyRevuesPage.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\MyRevuesPage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Pages\\MyRevuesPage.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\MyRevuesPage.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Pages\\MyRevuesPage.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:19:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRevuePage.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\CreateRevuePage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Pages\\CreateRevuePage.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\CreateRevuePage.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Pages\\CreateRevuePage.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:29:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\HomePage.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Pages\\HomePage.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:24:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:15:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Pages\\BasePage.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:02:22.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevueCraftersTests.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Tests\\RevueCraftersTests.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Tests\\RevueCraftersTests.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Tests\\RevueCraftersTests.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Tests\\RevueCraftersTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADgv1cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:57:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Tests\\BaseTests.cs",
+              "RelativeDocumentMoniker": "RevueCraftersTests\\Tests\\BaseTests.cs",
+              "ToolTip": "D:\\1\\RevueCraftersTests\\RevueCraftersTests\\Tests\\BaseTests.cs",
+              "RelativeToolTip": "RevueCraftersTests\\Tests\\BaseTests.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:29:17.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
