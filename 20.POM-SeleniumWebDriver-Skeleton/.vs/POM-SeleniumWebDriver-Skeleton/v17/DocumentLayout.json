@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|d:\\1\\pom-seleniumwebdriver-skeleton\\pom-seleniumwebdriver-skeleton\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|solutionrelative:pom-seleniumwebdriver-skeleton\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|d:\\1\\pom-seleniumwebdriver-skeleton\\pom-seleniumwebdriver-skeleton\\tests\\websitetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|solutionrelative:pom-seleniumwebdriver-skeleton\\tests\\websitetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|d:\\1\\pom-seleniumwebdriver-skeleton\\pom-seleniumwebdriver-skeleton\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|solutionrelative:pom-seleniumwebdriver-skeleton\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|d:\\1\\pom-seleniumwebdriver-skeleton\\pom-seleniumwebdriver-skeleton\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|solutionrelative:pom-seleniumwebdriver-skeleton\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|d:\\1\\pom-seleniumwebdriver-skeleton\\pom-seleniumwebdriver-skeleton\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD1265E-7C67-44A5-A77C-7581886A8C82}|POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton.csproj|solutionrelative:pom-seleniumwebdriver-skeleton\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebSiteTests.cs",
+              "DocumentMoniker": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Tests\\WebSiteTests.cs",
+              "RelativeDocumentMoniker": "POM-SeleniumWebDriver-Skeleton\\Tests\\WebSiteTests.cs",
+              "ToolTip": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Tests\\WebSiteTests.cs",
+              "RelativeToolTip": "POM-SeleniumWebDriver-Skeleton\\Tests\\WebSiteTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:36:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "POM-SeleniumWebDriver-Skeleton\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "POM-SeleniumWebDriver-Skeleton\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:31:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "POM-SeleniumWebDriver-Skeleton\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\BasePage.cs",
+              "RelativeToolTip": "POM-SeleniumWebDriver-Skeleton\\Pages\\BasePage.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:54:48.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "POM-SeleniumWebDriver-Skeleton\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Pages\\HomePage.cs",
+              "RelativeToolTip": "POM-SeleniumWebDriver-Skeleton\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:54:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "POM-SeleniumWebDriver-Skeleton\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\1\\POM-SeleniumWebDriver-Skeleton\\POM-SeleniumWebDriver-Skeleton\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "POM-SeleniumWebDriver-Skeleton\\Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:49:50.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
